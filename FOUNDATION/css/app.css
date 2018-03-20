@@ -1,0 +1,19 @@
+div{
+padding: 2px;
+}
+
+body{
+background: url(../imagenes/fondo.jpg);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.img-responsive{
+display: block;
+width: 100%;
+height: auto;
+}
